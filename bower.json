@@ -1,0 +1,16 @@
+{
+  "name": "taobao",
+  "authors": [
+    "With-The-Wind <438499348@qq.com>"
+  ],
+  "description": "taobao index for weixin",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "Touch": "touch#^0.0.1",
+    "Swiper": "swiper#^3.3.1"
+  }
+}
